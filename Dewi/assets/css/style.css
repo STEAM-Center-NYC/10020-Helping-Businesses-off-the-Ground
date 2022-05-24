@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background-image: url("ap_20149449939483.jpeg") top center;
+  background-image: url("lol.jpeg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -699,7 +699,7 @@ section {
 }
 .about-boxes .card-icon i {
   font-size: 32px;
-  color: #d4dccd;
+  color: #6b717e;
   width: 64px;
   height: 64px;
   padding-top: 5px;
